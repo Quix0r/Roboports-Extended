@@ -1,10 +1,10 @@
 {
 "name":"Roboports Extended",
-"version":"0.2.2",
+"version":"0.3.0",
 "title":"Roboports Extended",
-"author":"DJ Daemonix, Faltease, GuiltyNeko",
+"author":"DJ Daemonix, Faltease, smoopmeister",
 "contact":"dj.daemonix@nodsoft.net",
 "description":"New Roboports with extended range and more !",
-"factorio_version":"0.16",
+"factorio_version":"0.17",
 "dependencies":["base"]
 }
