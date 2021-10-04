@@ -5,6 +5,6 @@
 "author":"DJ Daemonix, Faltease, smoopmeister",
 "contact":"dj.daemonix@nodsoft.net",
 "description":"New Roboports with extended range and more !",
-"factorio_version":"0.17",
+"factorio_version":"1.1",
 "dependencies":["base"]
 }
