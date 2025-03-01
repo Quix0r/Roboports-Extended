@@ -1,10 +1,12 @@
 {
-"name":"Roboports Extended",
-"version":"0.3.1",
-"title":"Roboports Extended",
-"author":"Sakura Isayeki, Faltease, smoopmeister",
-"contact":"sakura.isayeki@nodsoft.net",
-"description":"New Roboports with extended range and more !",
-"factorio_version":"1.1",
-"dependencies":["base"]
+    "name"            : "Roboports Extended",
+    "version"         : "0.3.2",
+    "title"           : "Roboports Extended",
+    "author"          : "Sakura Isayeki, Faltease, smoopmeister, roland77",
+    "contact"         : "sakura.isayeki@nodsoft.net",
+    "description"     : "New Roboports with extended range and more!",
+    "factorio_version": "2.0",
+    "dependencies"    : [
+        "base >= 2.0"
+    ]
 }

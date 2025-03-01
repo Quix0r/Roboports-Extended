@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.3.2
+Date: 01-03-2025
+  Changes:
+    - updated to Factorio 2.0
+    - All graphics are now HR
+    - added Python script for easy deployment (ZIP file)
+    - added this changelog.txt
+    - restructed mod, just deep-copy the entity, change values and then add them
+    - added lib/tints.lua for tinting icons
+    - added .gitignore / .gitattributes for Windows/Linux/MacOS and ignoring ZIP releases
+    - recolored entities with tints
+
+  Cleanup:
+    - cleanups on extra lines, trailing spaces
+    - reformatted some other parts
+---------------------------------------------------------------------------------------------------
