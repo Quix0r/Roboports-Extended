@@ -36,7 +36,7 @@ local mk3r = table.deepcopy(data.raw["item"]["roboport"])
 
 mk3r.name = "roboport-mk3-reinforced"
 mk3r.order = "c[signal]-b[roboport]3r"
-mk3r.place_result = mk3.name
+mk3r.place_result = mk3r.name
 mk3r.icon = nil
 mk3r.icons = {{icon = "__base__/graphics/icons/roboport.png", tint = tints.gray_tint}}
 

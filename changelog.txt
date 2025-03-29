@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.4
+Date: 29-03-2025
+  Fixed:
+    - ops, toke wrong variable name for reenforced roboport
+    - `done` is a wrong keyword, `end` is correct
+    - pairs() takes a table/list, added curcly braces
+---------------------------------------------------------------------------------------------------
 Version: 0.3.3
 Date: 09-03-2025
   Cleanup:
